@@ -4,3 +4,9 @@ node_modules
 build
 *.node
 components
+/bin
+/obj/Debug
+/.ntvs_analysis.dat
+/bank.njsproj
+/bank.sln
+/bank.v12.suo
